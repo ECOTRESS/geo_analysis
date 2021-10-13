@@ -23,7 +23,7 @@ lu_ws_croped = lapply(lu, function(x) {
   crop(x,ws)
 })
 
-# Mask all rasters -- need to run this separated from the crop function otherwise R may crash
+# Mask all rasters -- need to run this separatly from the crop function otherwise R may crash
 lu_ws_masked = lapply(lu_ws_croped, function(x){
   mask(x,ws)
 })
