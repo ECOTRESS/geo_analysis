@@ -1,4 +1,4 @@
-## Lucas Santos 
+## Lucas Santos 10.13.2021
 ## Crop and mask several rasters based on shp
 
 # Clean the env
