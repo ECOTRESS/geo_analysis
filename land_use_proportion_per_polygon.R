@@ -1,4 +1,5 @@
 # Lucas Santos 10.13.2021
+# santoslr@uci.edu
 # Land Use propotion per polygon 
 library(sf)
 library(dplyr)
