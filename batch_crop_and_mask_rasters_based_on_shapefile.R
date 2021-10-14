@@ -1,4 +1,5 @@
 ## Lucas Santos 10.13.2021
+## santoslr@uci.edu
 ## Crop and mask several rasters based on shp
 
 # Clean the env
