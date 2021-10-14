@@ -1,6 +1,8 @@
 # Lucas Santos 10.13.2021
 # Land Use propotion per polygon 
-
+library(sf)
+library(dplyr)
+library(tidyr)
 # Import shapefile
 ws = st_read("C:/Users/santoslr/Desktop/Lucas/phd/data/chapter_1/bacias/micro_xingu.shp"); head(ws)
 
