@@ -2,6 +2,7 @@
 # This scripts opens ensemble-mean GRACE JPL forced by ERA5 and reads for Xingu and Pantanal
 #-------------------------------------------------------------------------------
 # By: Andreia Ribeiro 10.14.2021
+# andreia.ribeiro@env.ethz.ch
 #-------------------------------------------------------------------------------
 remove(list=ls()) 
 graphics.off()
